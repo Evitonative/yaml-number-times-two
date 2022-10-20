@@ -1,0 +1,14 @@
+{
+  "name": "yaml-number-times-two",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "js-yaml": "^4.1.0"
+  },
+  "scripts": {
+      "start": "node index.js"
+  }
+}
